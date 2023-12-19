@@ -11,3 +11,5 @@ microservice:
     endpoints:
       fetchUserById:
         uri: http://USER-SERVICE/users/
+test:
+  input: 1

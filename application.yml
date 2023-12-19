@@ -12,4 +12,4 @@ microservice:
       fetchUserById:
         uri: http://USER-SERVICE/users/
 test:
-  input: 1
+  input: 2

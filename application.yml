@@ -16,4 +16,4 @@ test:
   
 logging:
   file:
-    name: /Users/mac/Documents/app-logs/ecom1-log
+    name: /Users/mac/Downloads/app-logs/ecom1-log

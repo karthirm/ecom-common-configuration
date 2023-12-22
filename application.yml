@@ -13,3 +13,7 @@ microservice:
         uri: http://USER-SERVICE/users/
 test:
   input: 2
+  
+logging:
+  file:
+    name: /Users/mac/Documents/app-logs/ecom-log
